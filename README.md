@@ -1,1 +1,1 @@
-this is my first mini project in react js
+This is my first mini project in react js
